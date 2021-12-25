@@ -7,3 +7,22 @@ font
 table 2
 {   align="center" id="Home" border="1" width="100%"  cellspacing="0" cellpadding="20" bgcolor="black"        }
 table 3
+{   width="90%" align="center" cellpadding="15"   }
+td 1
+{             valign="middile" align="center"     }
+font Hi MindX 
+{      face=" Times New Roman " size="6" color="white"            }
+table 4
+{  width="100%" bgcolor="black" style: align="center"      }
+table 5
+{       cellpadding="15" width="80%" align="center"      }
+td About Me 
+{                 height="180" align="center" valign="middle" colspan="2"           }
+font About Me 
+{       face=" Verdana" size=" 7 " color="green"                }
+font About Me 2
+{          face="Verdana" size="4" color="white"                  }
+table 6 
+{      align="center" width="100%"  valign=" miđdle" bgcolor="grey" height="15"               }
+table 7
+{         cellpadding="15 " width="80%" align="center"        }
