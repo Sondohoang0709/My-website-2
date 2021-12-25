@@ -1,40 +1,40 @@
-table 1
+.table 1
 {     align="center"  width="100%" bgcolor="green" cellspacing="15"                 }
-font MindX 
+.font MindX 
 { face= "Comics San MS" size="6"  }
-font 
+.font 
 {   face="Verdana" size="5" color="black"  }
-table 2
+.table 2
 {   align="center" id="Home" border="1" width="100%"  cellspacing="0" cellpadding="20" bgcolor="black"        }
-table 3
+.table 3
 {   width="90%" align="center" cellpadding="15"   }
-td 1
+.td 1
 {             valign="middile" align="center"     }
-font Hi MindX 
+.font Hi MindX 
 {      face=" Times New Roman " size="6" color="white"            }
-table 4
+.table 4
 {  width="100%" bgcolor="black" style: align="center"      }
-table 5
+.table 5
 {       cellpadding="15" width="80%" align="center"      }
-td About Me 
+.td About Me 
 {                 height="180" align="center" valign="middle" colspan="2"           }
-font About Me 
+.font About Me 
 {       face=" Verdana" size=" 7 " color="green"                }
-font About Me 2
+.font About Me 2
 {          face="Verdana" size="4" color="white"                  }
-table 6 
+.table 6 
 {      align="center" width="100%"  valign=" miđdle" bgcolor="grey" height="15"               }
-table 7
+.table 7
 {         cellpadding="15 " width="80%" align="center"        }
-td Projects
+.td Projects
 {   height="180" align="center"  valign="middle" colspan="2"   }
-font Projects
+.font Projects
 {      face="Verdana " size="7" color="black"               }
-font BMI
+.font BMI
 {       face="Times New Roman " size="5" color="black"           }
-table 8
+.table 8
 {    align= "center" valign="middle" bgcolor="black"  height="10" width="100%"       }
-table 9
+.table 9
 {            align="center" cellspacing="0" cellpadding="15"  width="80%" valign="middle"        }
-td Achivements
+.td Achivements
 {       align="center" valign="middle" cellspacing="15" height="180"        }
